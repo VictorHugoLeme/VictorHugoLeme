@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=victorhugoleme&color=blueviolet)
 
-- 🔭 Softawre Analysis and Development graduating
+- 🔭 Software Analysis and Development graduating
 - 🌱 I’m currently learning to be a better developer
 - 📫 How to reach me : [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 <br/>
