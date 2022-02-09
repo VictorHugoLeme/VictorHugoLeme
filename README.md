@@ -1,6 +1,6 @@
 # Hello, I'm Victor Leme <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Python Back-end developer.
+### Java intern.
 
 ![](https://komarev.com/ghpvc/?username=victorhugoleme&color=blueviolet)
 
