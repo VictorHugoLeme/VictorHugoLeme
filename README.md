@@ -34,11 +34,7 @@
 <br>
   
 ![VictorHugoLeme's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoLeme&theme=radical&show_icons=true)
-
-<br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoleme&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoleme&theme=radical&show_icons=true&layout=compact&langs_count=8)
   
 <b>Social Network: <b/>
 <p>
