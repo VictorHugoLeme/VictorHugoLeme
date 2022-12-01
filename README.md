@@ -1,14 +1,15 @@
 # Hello, I'm Victor Hugo Leme 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-## Aiming to be a Fullstack Developer
+## Java back-end developer
+### Aiming to be a Fullstack Developer
 
 ![](https://komarev.com/ghpvc/?username=victorhugoleme&color=blueviolet)
 
 - :keyboard: Software Analysis and Development graduating
 - :coffee: Java intern at Encora
 - :v: VueJs Student
-- 📫 How to reach me : [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
+- 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
 - My Github Pages [**portfolio**](https://victorhugoleme.github.io/bc-dio-js/)
 <br>
