@@ -4,8 +4,6 @@
 ## Java back-end developer
 ### Aiming to be a Fullstack Developer
 
-![](https://komarev.com/ghpvc/?username=victorhugoleme&color=blueviolet)
-
 - :keyboard: Software Analysis and Development graduating
 - :coffee: Java intern at Encora
 - :v: VueJs Student
