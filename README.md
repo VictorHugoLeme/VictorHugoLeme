@@ -50,9 +50,9 @@ BackEnd
 <br>
 <br>
 
-![VictorHugoLeme's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoLeme&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats-victorhugoleme.vercel.app/api?username=VictorHugoLeme&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoleme&show_icons=true&theme=radical&layout=compact&langs_count=8)
+![Most used Langs](https://github-readme-stats-victorhugoleme.vercel.app/api/top-langs/?username=victorhugoleme&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)
   
 <b>Social Network: <b/>
 <p>
