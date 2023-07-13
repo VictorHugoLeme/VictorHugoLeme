@@ -11,34 +11,48 @@
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
 - My Github Pages [**portfolio**](https://victorhugoleme.github.io/bc-dio-js/)
 <br>
-<b>My tools: <b/>
-<p>
-  <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white>
-  <img src=https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-<p/>
+
+### My tools:
 <br>
-  
-![VictorHugoLeme's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoLeme&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoleme&theme=radical&show_icons=true&layout=compact&langs_count=8)
+
+BackEnd
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</a>
+
+
+<b>FrontEnd</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vue,scss" />
+</a>
+
+<b>Databases</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</a>
+
+<b>Cloud</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,apigateway" />
+</a>
+
+<b>General Tools</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,postman,redux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=redis,linux,rabbitmq" />
+</a>
+<br>
+<br>
+
+![VictorHugoLeme's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoLeme&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoleme&show_icons=true&theme=radical&layout=compact&langs_count=8)
   
 <b>Social Network: <b/>
 <p>
