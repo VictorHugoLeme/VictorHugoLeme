@@ -12,6 +12,9 @@
 - My Github Pages [**portfolio**](https://victorhugoleme.github.io/bc-dio-js/)
 <br>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### My tools:
 <br>
 
