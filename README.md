@@ -1,8 +1,8 @@
 # Hello, I'm Victor Hugo Leme 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-## Java back-end developer
-### Aiming to be a Fullstack Developer
+## Java | AWS developer
+### Aiming to be a Solutions Architect
 
 - :keyboard: Software Analysis and Development graduating
 - :coffee: Java intern at Encora
