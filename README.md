@@ -6,22 +6,36 @@
 
 - :keyboard: Software Analysis and Development graduating
 - :coffee: Java intern at Encora
-- :v: VueJs Student
+- :v: AWS Student
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
 - My Github Pages [**portfolio**](https://victorhugoleme.github.io/bc-dio-js/)
 <br>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+### Certifications:
+
+[![AWS Certified Cloud Practitioner Badge](https://raw.githubusercontent.com/VictorHugoLeme/VictorHugoLeme/main/badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/61d40ecc-6a01-4e7b-9ac2-e865a692552d/public_url)
 
 ### My tools:
-<br>
 
 BackEnd
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</a>
+
+
+<b>Databases</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</a>
+
+
+<b>Cloud</b>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,apigateway" />
 </a>
 
 
@@ -31,17 +45,6 @@ BackEnd
   <img src="https://skillicons.dev/icons?i=react,vue,scss" />
 </a>
 
-<b>Databases</b>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</a>
-
-<b>Cloud</b>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,apigateway" />
-</a>
 
 <b>General Tools</b>
 <br>
