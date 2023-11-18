@@ -5,7 +5,7 @@
 ### Aiming to be a Solutions Architect
 
 - :keyboard: Software Analysis and Development graduating
-- :coffee: Java intern at Encora
+- :coffee: Software Engineering intern at Encora
 - :v: AWS Student
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
