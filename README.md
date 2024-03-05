@@ -1,14 +1,14 @@
 # Hello, I'm Victor Hugo Leme 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-## Software Engineer
+## Fullstack Engineer
 
 <details closed>
 <summary>Details about me!</summary>
 <br>
 
 - :keyboard: Software Analysis and Development graduating
-- :coffee: Software Engineering intern at Encora
+- :coffee: Software Engineering intern at Scale Systems
 - :v: AWS Student
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
