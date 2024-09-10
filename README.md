@@ -8,8 +8,7 @@
 <br>
 
 - :keyboard: Software Analysis and Development graduating
-- :coffee: Software Engineering intern at Scale Systems
-- :v: AWS Student
+- :coffee: Midlevel Software Engineer at Scale Systems
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
 <br>
@@ -30,7 +29,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring" />
-<img src="https://skillicons.dev/icons?i=aws,firebase"/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,mysql"/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 <br>
 <img src="https://skillicons.dev/icons?i=react,vue" />
