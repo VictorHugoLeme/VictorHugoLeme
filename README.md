@@ -1,14 +1,16 @@
-# Hello, I'm Victor Hugo Leme 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+<h1 align="center">
+  Hello, I'm Victor Hugo Leme 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+</h1>
 
-## Fullstack Engineer
+<h2 align="center">
+  Midlevel Fullstack Engineer
+</h2>
 
-<details closed>
-<summary>Details about me!</summary>
 <br>
 
 - :keyboard: Software Analysis and Development graduating
-- :coffee: Midlevel Software Engineer at Scale Systems
+- :coffee: Midlevel Fullstack Engineer at Scale Systems
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
 <br>
@@ -47,5 +49,3 @@
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
-
-</details>
