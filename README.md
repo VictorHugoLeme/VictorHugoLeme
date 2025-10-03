@@ -13,6 +13,7 @@
 - :coffee: Midlevel Fullstack Engineer at Scale Systems
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My ReactJs [**portfolio**](https://victorhleme.dev/)
+- My [**resume**](https://github.com/VictorHugoLeme/VictorHugoLeme/blob/main/Victor%20Hugo%20-%20Developer%20Eng.pdf)
 <br>
 
 <h2 align="center">
