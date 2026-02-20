@@ -12,7 +12,7 @@
 - :keyboard: Software Analysis and Development graduating
 - :coffee: Midlevel Fullstack Engineer at Scale Systems
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
-- My ReactJs [**portfolio**](https://victorhleme.dev/)
+- My [**portfolio**](https://victorhleme.dev/)
 - My [**resume**](https://drive.google.com/file/d/1rwaNye0Uq_db62TD1XgyGX7orbOe5WCk/view?usp=sharing)
 <br>
 
