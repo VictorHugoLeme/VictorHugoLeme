@@ -4,13 +4,13 @@
 </h1>
 
 <h2 align="center">
-  Midlevel Fullstack Engineer
+  Senior Fullstack Engineer
 </h2>
 
 <br>
 
 - :keyboard: Software Analysis and Development graduating
-- :coffee: Midlevel Fullstack Engineer at Scale Systems
+- :coffee: Senior Fullstack Engineer at Publicis Sapient
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My [**portfolio**](https://victorhleme.dev/)
 - My [**resume**](files/VictorLeme-resume-Fullstack-Engineer.pdf)
