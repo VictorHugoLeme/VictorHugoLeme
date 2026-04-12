@@ -9,7 +9,6 @@
 
 <br>
 
-- :keyboard: Software Analysis and Development graduating
 - :coffee: Senior Fullstack Engineer at Publicis Sapient
 - 📫 How to reach me: [**My LinkedIn**](https://www.linkedin.com/in/victor-hugoleme/?locale=en_US)
 - My [**portfolio**](https://victorhleme.dev/)
